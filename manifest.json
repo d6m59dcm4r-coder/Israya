@@ -1,0 +1,10 @@
+{
+  "name": "Israya — La foi, le savoir et le bien qui perdure",
+  "short_name": "Israya",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbf8ef",
+  "theme_color": "#0b5d46",
+  "description": "Application islamique mobile Israya",
+  "lang": "fr"
+}
